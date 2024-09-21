@@ -13,3 +13,7 @@ These statistics highlight the growing importance of JavaScript, especially in w
 ## Emily Huang's Comment ##
 
 I agree with you that it is pretty surpring that JavaScript was written as the most popular programming language. Especially this year I feel like I see more people participating in Python programming over JavaScript but that might be due to our college cirriculum? I haven't written much code in JavaScript but after reading both the article and your comments I'll give it a try seeing that it is your favorite/best language. I also haven't used much GitHub but know of its impact on the programming world. I agree that it binds all coders and programmers together and am thankful to the founders and creaters of this program. Thank you for sharing this article it was a very fun read and I also enjoyed reading your comments on the subject!
+
+## Comment by Nicole##
+It actually does not surprise me because Javascript is suitable for both frontend and backend developemnt. Node's non blocking feature also make it working well for IO bound app development. A lot of npm modules are also very useful in simplfying tasks. 
+In addition, I also using Java to develop a robust program because it is **object oriented**! Hope one day one language can be useful in all cases!
